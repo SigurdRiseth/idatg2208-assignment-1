@@ -1,1 +1,1 @@
-# idatg2208-assignment-1
+# Assignment 1 - IDATG2208
