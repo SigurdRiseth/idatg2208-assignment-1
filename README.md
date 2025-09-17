@@ -18,7 +18,7 @@ The dataset used in this assignment is the Wine Quality Dataset, which can be fo
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/idatg2208-assignment-1.git
+    git clone https://github.com/SigurdRiseth/idatg2208-assignment-1
     cd idatg2208-assignment-1
     ```
 2. **(Optional) Create and activate a virtual environment:**
